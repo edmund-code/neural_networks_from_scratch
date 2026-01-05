@@ -1,2 +1,4 @@
 00_theplan.txt
-lectures/*.pptx
+lectures/powerpoints/
+lectures/ipynb/
+lectures/resources/
